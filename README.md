@@ -37,7 +37,7 @@ Cuando el usuario intenta enviar el formulario sin llenar algún campo, el códi
 
 ## Visualización en GitHub Pages
 
-Puedes ver la aplicación en acción a través de GitHub Pages [aquí](https://joyshaheb.github.io/Project-image-repo/Form-Validation/).
+Puedes ver la aplicación en acción a través de GitHub Pages [aquí](https://miguel-bc.github.io/FormularioValidacion/).
 
 ## Recursos de Referencia
 
