@@ -1,4 +1,4 @@
-# Form Validation Project
+# Proyecto Formulario Validación
 
 Este proyecto es una aplicación web de validación de formularios sencilla que valida los campos de nombre de usuario, correo electrónico y contraseña. Se ha elaborado siguiendo íntegramente el tutorial ofrecido por **freeCodeCamp**. El proyecto utiliza HTML, CSS y JavaScript para crear una interfaz interactiva que proporciona retroalimentación visual cuando los campos son completados incorrectamente o se dejan en blanco.
 
